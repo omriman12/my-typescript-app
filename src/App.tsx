@@ -5,7 +5,7 @@ import {
   Route
 } from "react-router-dom";
 
-import Users from './pages/users/Users';
+import Users from 'usersAlias/Users';
 
 // import createRoutes from './routes';
 // const routes = createRoutes();
