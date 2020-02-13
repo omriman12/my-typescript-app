@@ -15,6 +15,9 @@ const App = () => {
     <div className="App">
       <Router>
           <Switch>
+            <Route path="/">
+              <Users />
+            </Route>
             <Route path="/Users">
               <Users />
             </Route>
